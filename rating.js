@@ -11,5 +11,5 @@
    ===================================================================== */
 window.SITE_RATING = {
   rating: "4.7",   // your Google star rating, for example "4.8"
-  count: 13        // how many Google reviews you have, for example 15
+  count: 18        // how many Google reviews you have, for example 15
 };
